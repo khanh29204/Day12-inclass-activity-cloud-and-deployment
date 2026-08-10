@@ -17,13 +17,13 @@ Dán curl output hoặc screenshot text:
 Nêu platform đã chọn và lý do:
 
 ## Checklist
-- [ ] /health hoạt động
-- [ ] /ready hoạt động
-- [ ] /ask yêu cầu X-API-Key
-- [ ] Env vars không hardcode
-- [ ] Dockerfile không chạy root
-- [ ] Có ý tưởng rate limit/cost guard
-- [ ] Có cách xem logs/request_id
+- [x] /health hoạt động
+- [x] /ready hoạt động
+- [x] /ask yêu cầu X-API-Key
+- [x] Env vars không hardcode
+- [x] Dockerfile không chạy root
+- [x] Có ý tưởng rate limit/cost guard
+- [x] Có cách xem logs/request_id
 
 ## 3 điều nhóm học được
 1.
