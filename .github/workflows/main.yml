@@ -69,5 +69,5 @@ jobs:
           script: |
             cd ~/labs/day12
             docker compose pull
-            docker compose up -d
+            docker compose --env-file .env up -d
             docker image prune -f
